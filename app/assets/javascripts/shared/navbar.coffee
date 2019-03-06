@@ -1,3 +1,3 @@
 $(document).on 'turbolinks:load', ->
-  $('.sidenav').sidenav()
+  $('.button-collapse').sideNav()
   return
